@@ -22,7 +22,6 @@ public class Task1 {
             } catch (IOException | NumberFormatException e) {
                 System.out.println("Неверный ввод. Введите дробное число!!!");
             }
-
         }
     }
 }
